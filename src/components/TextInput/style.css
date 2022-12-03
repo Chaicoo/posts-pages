@@ -18,3 +18,10 @@
     box-shadow: 0 0 0 0.2rem rgba(24, 144, 255, 0.25);
 }
 
+.textInput:hover{
+    color: #495057;
+    background-color: #fff;
+    border-color: #fff;
+    outline: 0;
+    box-shadow: 0 0 0 0.2rem rgba(24, 144, 255, 0.25);
+}
